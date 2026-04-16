@@ -1,3 +1,5 @@
 SDA[[:space:]]490[[:space:]]2.csv filter=lfs diff=lfs merge=lfs -text
 SDA[[:space:]]490[[:space:]]2.ZIP filter=lfs diff=lfs merge=lfs -text
 SDA[[:space:]]490[[:space:]]2.zip filter=lfs diff=lfs merge=lfs -text
+*.dta filter=lfs diff=lfs merge=lfs -text
+*.tab filter=lfs diff=lfs merge=lfs -text
